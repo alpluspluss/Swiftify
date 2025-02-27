@@ -31,11 +31,13 @@
       "size" : "128x128"
     },
     {
+      "filename" : "swiftify-256x256.jpg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "swiftify-512x512.jpg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
