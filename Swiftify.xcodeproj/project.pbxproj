@@ -73,6 +73,8 @@
 		A6F1ADE02D6FCF9A007B08FF /* FullPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullPlayerView.swift; sourceTree = "<group>"; };
 		A6F1ADE32D6FCFC0007B08FF /* Double+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Double+Extensions.swift"; sourceTree = "<group>"; };
 		A6F1ADE52D6FDCD6007B08FF /* ButtonStyle+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ButtonStyle+Extensions.swift"; sourceTree = "<group>"; };
+		A6F1ADE72D6FE3F3007B08FF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A6F1ADE82D6FE405007B08FF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 		A6F1AD7F2D6FC371007B08FF = {
 			isa = PBXGroup;
 			children = (
+				A6F1ADE82D6FE405007B08FF /* README.md */,
 				A6F1AD8A2D6FC371007B08FF /* Swiftify */,
 				A6F1AD892D6FC371007B08FF /* Products */,
 			);
@@ -121,6 +124,7 @@
 		A6F1AD8A2D6FC371007B08FF /* Swiftify */ = {
 			isa = PBXGroup;
 			children = (
+				A6F1ADE72D6FE3F3007B08FF /* README.md */,
 				A6F1ADE22D6FCFAD007B08FF /* Extensions */,
 				A6F1ADCB2D6FCF05007B08FF /* Views */,
 				A6F1ADC22D6FCECE007B08FF /* Models */,
